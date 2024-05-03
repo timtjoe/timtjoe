@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Tim</h1>
-<h3 align="left">A FullStack Software Developer from Liberia, West Africa. Good software design is my passion.</h3>
+<h3 align="left">Hi 👋, I'm Tim</h3>
+<h4 align="left">A FullStack Software Developer from Liberia, West Africa. Good software design is my passion.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> </p>
 
-<p>🌱 I’m currently learning **NodeJS FullStack, Python, Algorithm, Developing LLM**</p>
-<p>📫 How to reach me **timtheme@yahoo.com**</p>
+- 🌱 I’m currently learning **NodeJS FullStack, Python, Algorithm, Developing LLM**
+- 📫 How to reach me **timtheme@yahoo.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
