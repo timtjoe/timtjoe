@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">I'm a I'm FullStack Software Developer from Liberia, West Africa. Good software design is my passion.</h3>
+<h1 align="left">Hi 👋, I'm Tim</h1>
+<h3 align="left">A FullStack Software Developer from Liberia, West Africa. Good software design is my passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> </p>
 
