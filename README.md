@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Tim</h3>
-<h4 align="left">I'm a fullStack web developer with a passion for design, programming languages, and creative coding.</h4>
+<h4 align="left">I'm a fullstack web developer with a passion for design, programming languages, and creative coding.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> </p>
 
