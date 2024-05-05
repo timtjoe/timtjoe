@@ -2,7 +2,8 @@
 
 <p align="left">
 I'm a full-stack web developer with a passion for design, programming languages, and creative coding.
-  I’m currently learning **NodeJS, Python, Algorithm, Developing LLM** . 
+  <br/>
+  I’m currently learning <strong>NodeJS, Python, Algorithm, Developing LLM</strong> . 
   You can find me on 
   <a href="https://facebook.com/timothytjoe" target="_blank">Facebook</a>, 
   <a href="https://linkedin/in/timtjoe" target="_blank">LinkedIn</a>, 
