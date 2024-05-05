@@ -1,9 +1,9 @@
 <h3 align="left">Hi 👋, I'm Tim</h3>
-<h4 align="left">A FullStack Software Developer from Liberia, West Africa. Good software design is my passion.</h4>
+<h4 align="left">I'm a fullStack web developer with a passion for design, programming languages, and creative coding.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> </p>
 
-- 🌱 I’m currently learning **NodeJS FullStack, Python, Algorithm, Developing LLM**
+- 🌱 I’m currently learning **NodeJS, Python, Algorithm, Developing LLM**
 - 📫 How to reach me **timtheme@yahoo.com**</p>
 
 <h3 align="left">Connect with me:</h3>
