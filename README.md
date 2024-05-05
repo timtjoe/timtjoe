@@ -10,11 +10,6 @@
   <a href="https://linkedin/in/timtjoe" target="_blank">LinkedIn</a>, 
   <a href="https://twitter.com/timtjoe" target="_blank">Twitter</a>.
 </p>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timtjoe&show_icons=true&locale=en&layout=compact" alt="timtjoe" />
-</div>
-<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timtjoe&show_icons=true&locale=en&layout=compact" alt="timtjoe" />
   <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" />
-</div>
 
