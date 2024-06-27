@@ -1,19 +1,16 @@
-<h3 align="left">hi, i'm timothy t. joe from liberia, west africa.</h3>
+<h3 align="left">Hi, I'm Timothy T. Joe from Liberia, West Africa.</h3>
 
-<p align="left">
-  i'm a full-stack software developer with passion for great design, programming languages, and creative coding.
-  <br/>
-  my first encounter with coding/programming started in 2014 when i decided to learn how to build the part of the computer that makes it work; the software. my first website that i actually built was with bootstrap. (oh! how i wish i knew a platform called github.com) - fast-foward, i can say to anyone ' i'm a software developer' with the conviction that i can turn an idea to fully function platform.
-  <br/>
-  for a company, am able to turn API endpoints to fully functioning user interfaces, using DRY and KISS principles. 
-  literarily am able to build or customize any user interface as per requirements, these i can assure as of 2024, and forward.
-  <br/>
-  I'm currently expanding my knowledge of <strong> NodeJS, vanilla javascript, typescript, python, algorithm & data structure, and frontend framework development... i don't hate chatGPT </strong>.
-  <br/>
- and most of all, my dream is to have the knowledge, tools, and ability to turn an idea into a functioning product in the time it take for Leo Messi to turn a football game around (90mins). 
-  <br/>
-  my programming mindset is; 'Never stop learning'.
-</p>
+<p>I'm a full-stack software developer with a passion for great design, programming languages, and creative coding.</p>
+
+<p>My first encounter with coding/programming started in 2014 when I decided to learn how to build the part of the computer that makes it work: the software. The first website I built was with Bootstrap. (Oh! How I wish I knew about a platform called GitHub.com back then.) Fast forward to today, I can confidently say to anyone, "I'm a software developer," with the conviction that I can turn an idea into a fully functional platform.</p>
+
+<p>For a company, I can turn API endpoints into fully functioning user interfaces, using DRY and KISS principles. Literally, I can build or customize any user interface as per requirements. This I can assure as of 2024 and forward.</p>
+
+<p>I'm currently expanding my knowledge of <strong>Node.js, vanilla JavaScript, TypeScript, Python, algorithms and data structures</strong>, and frontend framework development. And no, I don't hate ChatGPT.</p>
+
+<p>Most of all, my dream is to have the knowledge, tools, and ability to turn an idea into a functioning product in the time it takes for Leo Messi to turn a football game around (90 minutes).</p>
+
+<p>My programming mindset is: "Never stop learning."</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/timtjoe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/timtjoe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/timtjoe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@theme" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
