@@ -13,9 +13,12 @@
 <p>My programming mindset is: "Never stop learning."</p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/timtjoe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/timtjoe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/timtjoe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@theme" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p>
+  <a href="https://github.com/timtjoe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/timtjoe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/timtjoe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@theme" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
 
 <h3>Things I code with</h3>
 <p>
@@ -31,13 +34,26 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
+  <img alt="Razor" src="https://img.shields.io/badge/-Razor-512BD4?style=flat-square&logo=dot-net&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Composer" src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="pip" src="https://img.shields.io/badge/-pip-3775A9?style=flat-square&logo=pip&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
+<h3>GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=timtjoe&show_icons=true&theme=radical" alt="timtjoe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=radical" alt="timtjoe's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timtjoe&theme=radical" alt="timtjoe's GitHub Streak" />
+</p>
 
 <p>
   <!-- <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> -->
-<img src="https://profile-counter.glitch.me/{timtjoe}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{timtjoe}/count.svg" alt="timtjoe's Profile View Counter" />
 </p>
-
-
-
