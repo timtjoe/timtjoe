@@ -49,7 +49,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=radical" alt="timtjoe's Top Languages" />
 </p>
-
 <p>
   <!-- <img src="https://komarev.com/ghpvc/?username=timtjoe&label=Profile%20views&color=0e75b6&style=flat-square" alt="timtjoe" /> -->
   <img src="https://profile-counter.glitch.me/{timtjoe}/count.svg" alt="timtjoe's Profile View Counter" />
