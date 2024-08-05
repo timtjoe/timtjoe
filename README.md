@@ -46,10 +46,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-<h3>GitHub Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=radical" alt="timtjoe's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=timtjoe&theme=radical" alt="timtjoe's GitHub Streak" />
 </p>
 
 <p>
