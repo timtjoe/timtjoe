@@ -27,7 +27,13 @@ Currently, I'm expanding my expertise in algorithms, data structures, and fronte
 | <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> | <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> | <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" /> | <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> |
 | <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> | <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> | <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> | <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> | <img alt="Grunt" src="https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=grunt&logoColor=white" /> |
 
+[![Tim GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=timtjoe&hide=issues&count_private=true&show_icons=true&theme=swift&custom_title=Profile%20stats%20of%20public%20contributions&card_width=1000#gh-light-mode-only)](https://github.com/timtjoe#gh-light-mode-only)
 
+[![Tim GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=timtjoe&hide=issues&count_private=true&show_icons=true&theme=dark&custom_title=Profile%20stats%20of%20public%20contributions&card_width=1000#gh-dark-mode-only)](https://github.com/timtjoe/#gh-dark-mode-only)
+
+[![Tim's GitHub Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=swift&custom_title=Language%20stats%20of%20public%20contributions&langs_count=10&hide=jupyter%20notebook%2Chtml&card_width=1000#gh-light-mode-only)](https://github.com/timtjoe#gh-light-mode-only)
+
+[![Tim's GitHub Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=dark&custom_title=Language%20stats%20of%20public%20contributions&langs_count=10&hide=jupyter%20notebook%2Chtml&card_width=1000#gh-dark-mode-only)](https://github.com/timtjoe#gh-dark-mode-only)
 
 ### GitHub Profile Views:
 
