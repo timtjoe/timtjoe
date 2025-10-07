@@ -1,12 +1,8 @@
-### Software Engineer with a love for aesthetics. Builds web, system, and embedded systems.
+## About Me
 
----
+### I Love Building for the Web, Mobile, and Embedded Systems.
 
-Hey there! 👋
-
-I'm a **Software Engineer** who believes that powerful code can also be beautiful. My passion lies in building robust and elegant solutions across diverse domains. Whether it's crafting intuitive user experiences on the **web**, optimizing performance in **system-level** applications, or diving deep into hardware with **embedded systems**, I love bringing ideas to life with clean, efficient, and reliable code.
-
-My prefer languages of choice are **JavaScript**, **Python**, and **C**, and I'm always eager to learn new technologies and explore innovative approaches. You'll find me delving into everything from database design and API development to performance optimization, always with an eye for detail and a commitment to quality.
+My passion lies in building elegant solutions across diverse domains. I spend my time crafting intuitive user experiences on the web, primarily using JavaScript, while also leveraging Python for Data Analysis and Algorithms. Additionally, I enjoy experimenting with system-level applications, where I prefer the C programming language, and creating side-projects on mobile.
 
 Take a look around my repositories to see some of my work. If you're building something cool or just want to chat about engineering and design, feel free to connect!
 
@@ -14,31 +10,13 @@ Take a look around my repositories to see some of my work. If you're building so
 <p>
   <a href="https://twitter.com/timtjoe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 
-
-
-
-
-
-
   <a href="https://www.linkedin.com/in/timtjoe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-
-
-
-
-
-
 
   <a href="https://medium.com/@theme" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-
-
-
 </p>
 
-| ![Profile View Counter](https://profile-counter.glitch.me/timtjoe/count.svg) |
-|:---------------------------------------------:|
-| [Reload](https://github.com/timtjoe) |
+![](https://komarev.com/ghpvc/?username=timtjoe)
 
 
 
