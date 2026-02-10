@@ -6,20 +6,12 @@ I am a software developer focused on building elegant solutions across web-based
 
 ### Projects & Maintenance
 
-| Project | Description | Role |
-| :--- | :--- | :--- |
-| [**Tokenizer**](https://github.com/timtjoe/tokenizer) | Tokenizer for Scheme, implemented in C. | Creator |
-| [**LocalUID**](https://github.com/timtjoe/localuid) | Secure, URL-friendly ID generator optimized for Bun/TS. | Creator |
-| [**FinSinai**](https://github.com/timtjoe/finsinai) | Budget Monitoring Web Application. | Lead Dev |
-| [**Capitonum**](https://github.com/timtjoe/capitonum) | Wikipedia Article Aggregator for Android Devices | Lead Dev |
-| [**Explore More**](https://github.com/timtjoe?tab=repositories) | View all my repositories for more exploration. | — |
-
----
-
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timtjoe&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=transparent&hide_border=true)
+* [**Atpx**](https://timtjoe.github.io/atpx/) — A central hub to discover what's happening across the Fediverse.
+* [**LocalUID**](https://github.com/timtjoe/localuid) — Secure, URL-friendly ID generator optimized for Bun/TS.
+* [**Capitonum**](https://github.com/timtjoe/capitonum) — Wikipedia Article Aggregator for Android Devices.
+* [**Tokenizer**](https://github.com/timtjoe/tokenizer) — Tokenizer for Scheme, implemented in C.
+* [**FinSinai**](https://github.com/timtjoe/finsinai) — Budget Monitoring Web Application.
+* [**Explore More**](https://github.com/timtjoe?tab=repositories) — View all my repositories for more exploration.
 
 ---
 
