@@ -11,7 +11,7 @@ My interests span from crafting intuitive **web interfaces** and **mobile experi
 * [**FinSinai**](https://github.com/timtjoe/finsinai) — Budget Monitoring Web Application.
 * [**Explore More**](https://github.com/timtjoe?tab=repositories) — View all my repositories for more exploration.
 
----
+--
 
 ### Skills
 
@@ -22,8 +22,7 @@ My interests span from crafting intuitive **web interfaces** and **mobile experi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Web Components](https://img.shields.io/badge/Web_Components-ff5d2b?style=flat-square&logo=web-components&logoColor=white)
-![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white)
+![Web Components](https://img.shields.io/badge/Bun-ff5d2b?style=flat-square&logo=web-components&logoColor=white)
 
 
 ### Where to find me
