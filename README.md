@@ -4,7 +4,7 @@ My interests span from crafting intuitive **web interfaces** and **mobile experi
 
 ### personal Projects
 
-* [**Atpx**](https://timtjoe.github.io/atpx/) — A central hub to discover what's happening across the Fediverse.
+* [**Atpx**](https://timtjoe.github.io/atpx/) — Web app for exploring trending topics, people and communities in the decentralized web.
 * [**LocalUID**](https://github.com/timtjoe/localuid) — Secure, URL-friendly ID generator optimized for Bun/TS.
 * [**Capitonum**](https://github.com/timtjoe/capitonum) — Wikipedia Article Aggregator for Android Devices.
 * [**Tokenizer**](https://github.com/timtjoe/tokenizer) — Tokenizer for Scheme, implemented in C.
