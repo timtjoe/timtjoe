@@ -1,22 +1,45 @@
-This directory contains the GNU Compiler Collection (GCC).
+I'm Timothy T. Joe, a self-taught engineer, polymath, and polyglot. My work spans full-stack development, distributed systems, and low-level systems engineering. I'm based in Liberia, West Africa. If I am not coding, writing, or reading, get in touch with me at https://timtjoe.org/contact.
 
-The GNU Compiler Collection is free software.  See the files whose
-names start with COPYING for copying permission.  The manuals, and
-some of the runtime libraries, are under different terms; see the
-individual source files for details.
+OPEN SOURCE PROJECTS & CONTRIBUTIONS
+------------------------------------
 
-The directory INSTALL contains copies of the installation information
-as HTML and plain text.  The source of this information is
-gcc/doc/install.texi.  The installation information includes details
-of what is included in the GCC sources and what files GCC installs.
+* Portlens    : https://www.npmjs.com/package/portlens
+  CLI dev tool that replaces port numbers with stable URLs.
 
-See the file gcc/doc/gcc.texi (together with other files that it
-includes) for usage and porting information.  An online readable
-version of the manual is in the files gcc/doc/gcc.info*.
+* Middot      : https://www.npmjs.com/package/middot
+  Sophisticated HTML middot character utility for TypeScript.
 
-See http://gcc.gnu.org/bugs/ for how to report bugs usefully.
+* JobScrolled : https://timtjoe.github.io/jobscrolled/
+  Repository of remote and digital nomad opportunities.
 
-Copyright years on GCC source files may be listed using range
-notation, e.g., 1987-2012, indicating that every year in the range,
-inclusive, is a copyrightable year that could otherwise be listed
-individually.
+* Atpx        : https://timtjoe.github.io/atpx/
+  Web app for exploring the atproto fediverse.
+
+* LocalUID    : https://github.com/timtjoe/localuid
+  Secure, URL-friendly ID generator optimized for Bun/TS.
+
+* Capitonum   : https://github.com/timtjoe/capitonum
+  Wikipedia Article Aggregator for Android Devices.
+
+* Tokenizer   : https://github.com/timtjoe/tokenizer
+  Tokenizer for Scheme, implemented in C.
+
+* FinSinai    : https://github.com/timtjoe/finsinai
+  Budget Monitoring Web Application.
+
+* All Repos   : https://github.com/timtjoe?tab=repositories
+  View all my repositories.
+
+------------------------------------
+
+STATS
+-----
+
+[![Tim's GitHub stats](https://github-stats-extended.vercel.app/api?username=timtjoe)](https://github.com/stats-organization/github-stats-extended)
+
+------------------------------------
+
+VISITOR COUNT
+-------------
+
+![](https://komarev.com/ghpvc/?username=timtjoe)
