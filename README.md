@@ -1,3 +1,5 @@
+[![Tim's GitHub stats](https://github-stats-extended.vercel.app/api?username=timtjoe)](https://github.com/stats-organization/github-stats-extended)
+
 <details>
 <summary><b>📂 View Projects & Contact Info</b></summary>
 <br />
