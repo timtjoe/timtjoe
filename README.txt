@@ -1,45 +1,30 @@
-I'm Timothy T. Joe, a self-taught engineer, polymath, and polyglot. My work spans full-stack development, distributed systems, and low-level systems engineering. I'm based in Liberia, West Africa. If I am not coding, writing, or reading, get in touch with me at https://timtjoe.org/contact.
+I'm Timothy T. Joe, a self-taught software engineer, polymath, and polyglot. My work spans full-stack development, distributed systems, and low-level systems engineering. I am based in Liberia, West Africa.
 
-OPEN SOURCE PROJECTS & CONTRIBUTIONS
-------------------------------------
+When I am not coding, I am writing, reading, or touching grass. I enjoy football, hip-hop music, and basking in the constant adulation of my companions. Get in touch with me at https://timtjoe.org/contact.
 
-* Portlens    : https://www.npmjs.com/package/portlens
-  CLI dev tool that replaces port numbers with stable URLs.
+OPEN SOURCE PROJECTS
+---------------------
 
-* Middot      : https://www.npmjs.com/package/middot
-  Sophisticated HTML middot character utility for TypeScript.
+* PORTLENS    : https://www.npmjs.com/package/portlens
+    CLI dev tool that replaces port numbers with stable URLs.
 
-* JobScrolled : https://timtjoe.github.io/jobscrolled/
-  Repository of remote and digital nomad opportunities.
+* JOBSCROLLED : https://timtjoe.github.io/jobscrolled/
+    Repository of remote and digital nomad opportunities.
 
-* Atpx        : https://timtjoe.github.io/atpx/
-  Web app for exploring the atproto fediverse.
+* ATPX        : https://timtjoe.github.io/atpx/
+    Web app for exploring the atproto fediverse.
 
-* LocalUID    : https://github.com/timtjoe/localuid
-  Secure, URL-friendly ID generator optimized for Bun/TS.
+* LOCALUUID    : https://github.com/timtjoe/localuid
+    Secure, URL-friendly ID generator optimized for Bun/TS.
 
-* Capitonum   : https://github.com/timtjoe/capitonum
-  Wikipedia Article Aggregator for Android Devices.
+* CAPITONUM   : https://github.com/timtjoe/capitonum
+    Wikipedia Article Aggregator for Android Devices.
 
-* Tokenizer   : https://github.com/timtjoe/tokenizer
-  Tokenizer for Scheme, implemented in C.
+* TOKENIZER   : https://github.com/timtjoe/tokenizer
+    Tokenizer for Scheme, implemented in C.
 
-* FinSinai    : https://github.com/timtjoe/finsinai
-  Budget Monitoring Web Application.
+* FINSINAI    : https://github.com/timtjoe/finsinai
+    Budget Monitoring Web Application.
 
-* All Repos   : https://github.com/timtjoe?tab=repositories
-  View all my repositories.
-
-------------------------------------
-
-STATS
------
-
-[![Tim's GitHub stats](https://github-stats-extended.vercel.app/api?username=timtjoe)](https://github.com/stats-organization/github-stats-extended)
-
-------------------------------------
-
-VISITOR COUNT
--------------
-
-![](https://komarev.com/ghpvc/?username=timtjoe)
+* ALL REPOS   : https://github.com/timtjoe?tab=repositories
+    View all my repositories.
