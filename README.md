@@ -13,10 +13,6 @@ I am a dedicated software engineer with a passion for designing reliable, scalab
 
 I thrive in collaborative, high-impact environments where I can take full ownership of technical challenges, bridge the gap between abstract ideas and execution, and continually refine my craftsmanship. Beyond engineering, I am a writer, curious reader, and active learner who values clear communication and strong human connections. When away from the keyboard, I enjoy playing football, listening to hip-hop, and spending quality time with friends and family.
 
-<br><br>
-
-<a id="projects"></a>
-**Projects I Build and Maintain**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,6 +26,9 @@ I thrive in collaborative, high-impact environments where I can take full owners
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <br>
+
+<a id="projects"></a>
+**Projects I Build and Maintain**
 
 * <a href="https://timtjoe.github.io/shortwords"><b>shortwords</b></a> - Generate pronounceable 2, 3, and 4-letter English words with a given pattern (side project)
 * <a href="https://timtjoe.github.io/localuid"><b>localuuid</b></a> - Utility for generating clean, URL-friendly identifiers (side project)
