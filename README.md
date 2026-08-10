@@ -44,14 +44,18 @@ I thrive in collaborative, high-impact environments where I can take full owners
 <br><br>
 
 <a id="history"></a>
-**History & Stats**
+**History**
 
-<img src="https://github-readme-stats.vercel.app/api?username=timtjoe&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Contributions & Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtjoe&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=timtjoe&theme=dark&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <a href="https://commit-history.com/timtjoe">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/timtjoe?theme=dark" />
+      <img alt="timtjoe's commit history" src="https://commit-history.com/embed/timtjoe" />
+    </picture>
+  </a>
+</div>
 
+ 
 <br><br>
 
 <a id="contact"></a>
