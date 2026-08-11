@@ -13,22 +13,10 @@ I am a dedicated software engineer with a passion for designing reliable, scalab
 
 I thrive in collaborative, high-impact environments where I can take full ownership of technical challenges, bridge the gap between abstract ideas and execution, and continually refine my craftsmanship. Beyond engineering, I am a writer, curious reader, and active learner who values clear communication and strong human connections. When away from the keyboard, I enjoy playing football, listening to hip-hop, and spending quality time with friends and family.
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 <br>
 
 <a id="projects"></a>
-**Projects I Build and Maintain**
+**Projects**
 
 * <a href="https://timtjoe.github.io/shortwords"><b>shortwords</b></a> - Generate pronounceable 2, 3, and 4-letter English words with a given pattern (side project)
 * <a href="https://timtjoe.github.io/localuid"><b>localuuid</b></a> - Utility for generating clean, URL-friendly identifiers (side project)
@@ -44,8 +32,6 @@ I thrive in collaborative, high-impact environments where I can take full owners
 <br><br>
 
 <a id="history"></a>
-**History**
-
 <div align="center">
   <a href="https://commit-history.com/timtjoe">
     <picture>
@@ -55,8 +41,7 @@ I thrive in collaborative, high-impact environments where I can take full owners
   </a>
 </div>
 
- 
-<br><br>
+<br>
 
 <a id="contact"></a>
 **How to Reach Me**
@@ -67,11 +52,10 @@ I thrive in collaborative, high-impact environments where I can take full owners
 [![X](https://img.shields.io/badge/X-timothytjoe-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/timothytjoe)
 [![Bluesky](https://img.shields.io/badge/Bluesky-timtjoe-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/timtjoe)
 [![Facebook](https://img.shields.io/badge/Facebook-timtjoe-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/timtjoe)
-[![Reddit](https://img.shields.io/badge/Reddit-timtjoe-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/timtjoe)
+[![Reddit](https://img.shields.io/badge/Reddit-timtjoe-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/liberianjoe)
 [![HackerNews](https://img.shields.io/badge/HackerNews-liberian-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=liberian)
 
 <br><br>
 
-**Profile Visitor Count**
 <br>
 <img src="https://komarev.com/ghpvc/?username=timtjoe&color=blueviolet&style=flat-square" alt="Profile Visitor Count" />
